@@ -107,7 +107,7 @@
 
     <!-- FOOTER BAR -->
     <v-footer app absolute class="grey darken-2" height="50" elevation="5">
-      <div class="white--text">...</div>
+      <div class="white--text">work in progress</div>
     </v-footer>
   </nav>
 </template>
