@@ -27,6 +27,7 @@
         </p>
       </v-col>
     </v-row>
+    <div style="height: 15vh"></div>
   </v-container>
 </template>
 

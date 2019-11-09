@@ -52,10 +52,10 @@
       </v-col>
     </v-row>
     <v-row justify="center" class="ma-0">
-      <v-col cols="12" sm="11" md="8">
-        <v-list disabled rounded class="mx-auto" color="grey lighten-5">
+      <v-col cols="12" sm="11" md="8" lg="7" xl="5">
+        <v-list disabled rounded class="mx-auto" color="transparent">
           <v-subheader class="title font-weight-bold black--text">Nos atouts :</v-subheader>
-          <v-list-item-group multiple dense v-model="item" color="grey darken-2">
+          <v-list-item-group multiple dense v-model="item" color="error">
             <v-list-item
               v-for="(atout, id) in atouts"
               :key="id"
